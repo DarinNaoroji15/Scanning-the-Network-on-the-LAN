@@ -8,6 +8,9 @@ In this lab project, I will perform enumeration of a LAN from a Kali machine usi
 
 - Exploitation Phase: View Here
 
+The tools and techniques used in this lab will help develop skills in identifying and profiling systems on a network, which are crucial for penetration testing and network defense. Lab practice apart of Infosec Learning and through Springboard Curriculum.
+
+
 
 
 
