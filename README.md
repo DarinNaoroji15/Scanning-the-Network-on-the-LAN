@@ -1,3 +1,3 @@
 # Scanning the Network on the LAN
 
-In Progress...
+In this lab project, I will perform enumeration of a LAN from a Kali machine using both command-line and GUI tools to discover hosts, services, and a Postgres server. I will use command-line tools such as nmap, db_nmap, and psql to gather network and service information and attempt authentication on the Postgres server. Additionally, I will use GUI tools such as Armitage to visually explore network activity, inspect services, and perform credentialed access in a controlled lab environment.
