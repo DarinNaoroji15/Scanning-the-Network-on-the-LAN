@@ -6,6 +6,6 @@ In this lab project, I will perform enumeration of a LAN from a Kali machine usi
 
 - Scanning with Metasploit and Armitage Phase: [View Here](https://github.com/DarinNaoroji15/Scanning-the-Network-on-the-LAN/blob/main/Scanning%20with%20Metasploit%20and%20Armitage.md)
 
-- Exploitation Phase: View Here
+- Exploitation Phase: [View Here](https://github.com/DarinNaoroji15/Scanning-the-Network-on-the-LAN/blob/main/Exploitation.md)
 
 The tools and techniques used in this lab will help develop skills in identifying and profiling systems on a network, which are crucial for penetration testing and network defense. Lab practice apart of Infosec Learning and through Springboard Curriculum.
