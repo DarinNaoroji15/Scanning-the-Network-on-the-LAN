@@ -12,4 +12,36 @@ Result of Step 1
 
 Result of Step 2
 
-3. 
+3. Then type the following command to view the contents of text file named sampleflag.txt: "more sampleflag.txt".
+
+<img width="481" height="69" alt="image" src="https://github.com/user-attachments/assets/5f13441e-6687-4869-9b5c-e9fe9ed79783" />
+
+Result of Step 3
+
+4. After that type in the following command to switch to the Armitage directory: "cd armitage".
+
+<img width="354" height="70" alt="image" src="https://github.com/user-attachments/assets/b769f5b5-caae-4316-8c6f-93ad239adfb6" />
+
+Result of Step 4
+
+5. Type in the following command to switch to the Metasploit interface: "msfconsole".
+
+<img width="940" height="586" alt="image" src="https://github.com/user-attachments/assets/23307e5e-4e33-4311-907e-489a7312f48e" />
+
+Result of Step 5
+
+6. Now type in the following command to begin a database nmap scan: "msf > db_nmap 192.168.1.*". *Note this is subjec to take up to 5 minutes to complete. 
+
+<img width="942" height="114" alt="image" src="https://github.com/user-attachments/assets/d91cc9f2-9dd9-479e-a087-f7688e115668" />
+
+Result of Step 6
+
+7. Now type in the following command to start Armitage: "./armitage".
+
+<img width="773" height="465" alt="image" src="https://github.com/user-attachments/assets/3fbacf18-0446-48cc-b7ad-c2b265b5cff8" />
+
+Result of Step 7
+
+8. Then click connect and select yes to start Metasploit. 
+
+9. 
