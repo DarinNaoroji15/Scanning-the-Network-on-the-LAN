@@ -4,7 +4,7 @@ In this lab project, I will perform enumeration of a LAN from a Kali machine usi
 
 - Standard Scanning Phase: [View Here](https://github.com/DarinNaoroji15/Scanning-the-Network-on-the-LAN/blob/main/Standard%20Scanning.md)
 
-- Scanning with Metasploit and Armitage Phase: View Here
+- Scanning with Metasploit and Armitage Phase: [View Here](https://github.com/DarinNaoroji15/Scanning-the-Network-on-the-LAN/blob/main/Scanning%20with%20Metasploit%20and%20Armitage.md)
 
 - Exploitation Phase: View Here
 
