@@ -44,4 +44,22 @@ Result of Step 7
 
 8. Then click connect and select yes to start Metasploit. 
 
-9. 
+9. Once Metasploit starts up. Right click on the window on the top to and go through the Auto Layout drop-down and selct Stack.
+
+<img width="509" height="366" alt="image" src="https://github.com/user-attachments/assets/5d9f6217-02a4-44cd-8a42-b2717a5004f6" />
+
+Result of Step 9
+
+10. Right on the IP of 192.168.1.254 and select scan. *Note the complete scan can take up to 5 minutes.
+
+<img width="308" height="239" alt="image" src="https://github.com/user-attachments/assets/b84b0800-3309-44a6-80fd-66c248b395e4" />
+
+Result of Step 10
+
+11. To do same as Step 10 for 192.168.1.30.
+
+12. To do same as Step 10 for 192.168.1.20.
+
+<img width="720" height="244" alt="image" src="https://github.com/user-attachments/assets/5111d26a-1810-4f79-b61c-d6e88ea2c257" />
+
+Results from 11 to 12
